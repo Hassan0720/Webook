@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "express-telematics-v1";
+const CACHE_NAME = "webook-v1";
 const urlsToCache = [
   "./",
   "./index.html",
